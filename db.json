@@ -1,7 +1,11 @@
 {
   "questions": [
-    { "question": "Whats your favourite color",
-      "answers": 3
-    },
-  ]
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
