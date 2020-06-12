@@ -1,7 +1,5 @@
 {
   "questions": [
-    { "question": 1, "answers": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "question": 1, "answers": "Post 1" }
   ]
 }
