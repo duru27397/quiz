@@ -1,5 +1,10 @@
 {
-  "dog": [
-    { "question": "Whats your Favourite Colour?", "answers": "Post 1" }
+  "you": [
+    { "question": "Whats your Favourite Colour?", 
+     "answers": [
+       {"text": "blue", "score": 5},
+       {"text": "red", "score": 7},
+     ]
+    }
   ]
 }
