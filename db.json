@@ -1,20 +1,7 @@
 {
   "questions": [
     { "question": "Whats your favourite color",
-      "answers": [
-        { "text": "", "score": 10 },
-        { "text": "", "score": 10 },
-        { "text": "", "score": 10 },
-        { "text": "", "score": 10 },
-      ]
-    },
-    { "question": "Whats your favourite color",
-      "answers": [
-        { "text": "", "score": 10 },
-        { "text": "", "score": 10 },
-        { "text": "", "score": 10 },
-        { "text": "", "score": 10 },
-      ]
+      "answers": 3
     },
   ]
 }
