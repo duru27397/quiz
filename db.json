@@ -1,10 +1,7 @@
 {
   "hhh": [
     { "question": "Whats your Favourite Colour?", 
-     "answers": [
-       {"text": "blue", "score": 5},
-       {"text": "red", "score": 7}
-     ]
+     "answers": "Blue"
     }
   ]
 }
